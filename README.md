@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 ## 🏆 Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=QalandarDev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AzizbekDev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📊 Qalandar Dev's GitHub Stats
 
-![Qalandar Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=QalandarDev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QalandarDev&layout=compact&theme=dracula)
+![Qalandar Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekZiyodullayev2024&layout=compact&theme=dracula)
 [![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
-- 👋 What's up guys, I'm QalandarDev
-- 💻 I know PHP & MYSQLI & OOP & Yii2 Framework
+- 👋 What's up guys, I'm AzizbekDev
+- 💻 I know PHP & MYSQLI & OOP & Laravel Framework
 - 👨‍💻 I'm looking to collaborate on projects
-- 🌍 I'm 21-years old developer from Uzbekistan/Khorezm
+- 🌍 I'm Php developer from Uzbekistan/Tashkent
 - 🔗 [Link tree](your-link-tree-url)
-- 📫 Reach me on [@QalandarAxmedov](telegram-link)
+- 📫 Reach me on [@Azizbek201798](telegram-link)
 - ⚡ Fun fact :- One day you'll look back and realize that you worried too much about things that don't really matter.
