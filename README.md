@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 ## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AzizbekDev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-## 📊 Qalandar Dev's GitHub Stats
+## 📊 Azizbek Dev's GitHub Stats
 
-![Qalandar Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula)
+![AzizbekDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekZiyodullayev2024&layout=compact&theme=dracula)
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
 - 👋 What's up guys, I'm AzizbekDev
 - 💻 I know PHP & MYSQLI & OOP & Laravel Framework
 - 👨‍💻 I'm looking to collaborate on projects
