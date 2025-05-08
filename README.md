@@ -1,27 +1,33 @@
-<!--
-**AzizbekZiyodullayev2024/AzizbekZiyodullayev2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hi there, I'm Azizbek — a Passionate Laravel Developer from Uzbekistan!
 
-## 🏆 Github Profile Trophy
+### 🚀 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizbekDev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-## 📊 Azizbek Dev's GitHub Stats
-![AzizbekDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekZiyodullayev2024&layout=compact&theme=dracula)
+![AzizbekDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekZiyodullayev2024&layout=compact&theme=dracula&hide_border=true&bg_color=00000000)
 
-- 👋 What's up guys, I'm AzizbekDev
-- 💻 I know PHP & MYSQLI & OOP & Laravel Framework
-- 👨‍💻 I'm looking to collaborate on projects
-- 🌍 I'm Php developer from Uzbekistan/Tashkent
-- 🔗 [Link tree](your-link-tree-url)
-- 📫 Reach me on [@Azizbek201798](telegram-link)
-- ⚡ Fun fact :- One day you'll look back and realize that you worried too much about things that don't really matter.
+---
+
+### 🛠️ Tech Stack
+
+- ⚙️ Backend: PHP, Laravel, MySQL, Redis
+- 🎨 Frontend: Blade, Tailwind CSS, Bootstrap
+- 🐳 DevOps: Docker, GitHub Actions
+- 🌐 Other Tools: Postman, Swagger, Composer
+
+---
+
+### 📈 GitHub Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AzizbekZiyodullayev2024&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 🌍 Let's Connect
+
+- 💼 [My Portfolio (optional)](https://your-portfolio-link.com)
+- 📬 [Email Me](mailto:your-email@example.com)
+- 🐙 [GitHub Profile](https://github.com/AzizbekZiyodullayev2024)
+
+---
+
+⭐️ *Thanks for visiting my profile! Don't forget to star your favorite repos!*
