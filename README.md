@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=AzizbekDev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📊 Azizbek Dev's GitHub Stats
 
-![AzizbekDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekZiyodullayev2024&layout=compact&theme=dracula)
+
 - 👋 What's up guys, I'm AzizbekDev
 - 💻 I know PHP & MYSQLI & OOP & Laravel Framework
 - 👨‍💻 I'm looking to collaborate on projects
