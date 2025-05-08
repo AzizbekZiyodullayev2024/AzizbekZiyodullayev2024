@@ -2,9 +2,6 @@
 
 ### 🚀 GitHub Stats
 
-![AzizbekDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekZiyodullayev2024&layout=compact&theme=dracula)
-
 ---
 
 ### 🛠️ Tech Stack
