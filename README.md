@@ -2,7 +2,6 @@
 
 ### 🚀 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" width="48%" alt="Azizbek's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekZiyodullayev2024&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&v=1" width="48%" alt="Top Languages" />
 
 ### 🛠️ Tech Stack
