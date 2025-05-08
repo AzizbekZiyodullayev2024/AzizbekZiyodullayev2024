@@ -1,13 +1,9 @@
 ## 👋 Hi there, I'm Azizbek — a Laravel Developer from Uzbekistan!
 
 ### 🚀 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzizbekZiyodullayev2024&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Azizbek's GitHub Stats" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizbekZiyodullayev2024&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</p>
 ---
 
 ### 🛠️ Tech Stack
