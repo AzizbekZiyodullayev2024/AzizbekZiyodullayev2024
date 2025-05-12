@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Azizbek — a Laravel Developer from Uzbekistan!
+## 👋 I'm Azizbek a Laravel Developer from Uzbekistan!
 
 ### 🚀 GitHub Stats
 
